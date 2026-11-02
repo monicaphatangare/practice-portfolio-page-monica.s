@@ -1,0 +1,76 @@
+
+
+/* Body styling */
+body {
+    background-color: #f2f5f9;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    color: darkblue;
+}
+
+/* About Me section */
+#about {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Skills section */
+.skills {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Table styling */
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+/* Contact section */
+#contact {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Input fields */
+input, textarea {
+    padding: 8px;
+    margin-top: 5px;
+}
+
+/* Button styling */
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Footer styling */
+footer {
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
